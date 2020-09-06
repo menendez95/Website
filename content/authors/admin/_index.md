@@ -1,7 +1,7 @@
 ---
 title: David Menendez
 role: Graduate Student
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Wisconsin-Madison
     url: https://psych.wisc.edu/staff/menendez-david/
