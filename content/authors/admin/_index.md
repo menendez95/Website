@@ -28,7 +28,7 @@ social:
     link: https://www.researchgate.net/profile/David_Menendez3
   - link: https://osf.io/psqjd
     icon: osf
-    icon_pack: ai
+    icon_pack: fab
 education:
   courses:
     - course: MS in Psychology
