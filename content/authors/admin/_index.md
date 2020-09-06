@@ -31,9 +31,12 @@ social:
     icon_pack: fab
 education:
   courses:
+    - course: PhD in Psychology
+      institution: University of Wisconsin-Madison
+      year: 2022
     - course: MS in Psychology
       institution: University of Wisconsin-Madison
-      year: 2015
+      year: 2017
     - course: BA in Psychology
       institution: University of Wisconsin-Madison
       year: 2016
