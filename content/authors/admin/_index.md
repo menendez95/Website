@@ -48,4 +48,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-David needs to keep editing this to have some useful content
+I am a graduate student at the University of Wisconsin-Madison working with Dr. Martha Alibali and Dr. Karl Rosengren. I am interested in how children learn science concepts inside and outside of the classroom, and how representations influence learning and generalization.
