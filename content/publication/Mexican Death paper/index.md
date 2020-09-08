@@ -15,7 +15,7 @@ authors:
 - Iseli G. Hernandez
 - Peggy Miller
 - Karl S. Rosengren
-date: "2020-09-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: "10.1111/cdev.13263"
 featured: False
 image:
@@ -27,7 +27,7 @@ publication: '*Child Development, 91*(2), e491-e511'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-09-01T00:00:00Z"
+publishDate: "2019-04-01T00:00:00Z"
 slides: 
 summary: We used a mixed-method approach to explore parent and child perspectives on 
   death in Puebla, Mexico. While all children in this sample displayed a biological
