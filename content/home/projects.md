@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Visual Representations"
     tag = "Visual Representations"
+    
+  [[content.filter_button]]
+    name = "Understanding of death"
+    tag = "Children's understanding of death" 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
