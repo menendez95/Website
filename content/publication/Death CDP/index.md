@@ -4,7 +4,7 @@ authors:
 - admin
 - Iseli G. Hernandez
 - Karl S. Rosengren
-date: "2020-09-08T00:00:00Z"
+date: "2020-08-08T00:00:00Z"
 doi: "10.1111/cdep.12357"
 featured: True
 image:
@@ -16,7 +16,7 @@ publication: '*Child Development Perspectives, 14*(1), 55-60'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-09-08T00:00:00Z"
+publishDate: "2020-08-08T00:00:00Z"
 slides: 
 summary: We review research on children's understanding of death. In particular we examine how children learn about death by talking with parents, consuming media, and participating in cultural rituals. 
 tags:
