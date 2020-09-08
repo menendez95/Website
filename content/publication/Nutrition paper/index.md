@@ -15,7 +15,8 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-- Visual reprensentations
+- Visual representations
+- Parent-child conversations
 publication: '*Cognitive Development, 55*, 1-17'
 publication_short: ""
 publication_types:
