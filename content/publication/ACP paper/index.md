@@ -11,7 +11,7 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: 
+projects: [Biological Reasoning]
 publication: '*Applied Cognitive Psychology, 34*, 1101-1117'
 publication_short: ""
 publication_types:
