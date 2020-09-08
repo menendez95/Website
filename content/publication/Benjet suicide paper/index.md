@@ -31,7 +31,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-publication: '*Suicide and Life-Threatening Behaviors, 48*(6)'
+publication: '*Suicide and Life-Threatening Behaviors, 48*(6), 755-766'
 publication_short: ""
 publication_types:
 - "2"
