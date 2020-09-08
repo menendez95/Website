@@ -16,7 +16,7 @@ authors:
 - Iseli G. Hernandez
 - Gregory Barber
 - Karl S. Rosengren
-date: "2018-12-12T00:00:00Z"
+date: "2020-12-12T00:00:00Z"
 doi: "10.1080/07481187.2018.1522386"
 featured: False
 image:
@@ -24,7 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Children's understanding of death]
-publication: '*Death Studies, 0*(0)'
+publication: '*Death Studies, 44*, 78-88'
 publication_short: ""
 publication_types:
 - "2"
