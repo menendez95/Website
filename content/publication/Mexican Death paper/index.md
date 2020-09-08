@@ -15,7 +15,7 @@ authors:
 - Iseli G. Hernandez
 - Peggy Miller
 - Karl S. Rosengren
-date: "2019-09-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: "10.1111/cdev.13263"
 featured: True
 image:
@@ -23,7 +23,7 @@ image:
   focal_point: 
   preview_only: false
 projects: [Children's understanding of death]
-publication: '*Child Development, 0*(0)'
+publication: '*Child Development, 91*(2), e491-e511'
 publication_short: ""
 publication_types:
 - "2"
