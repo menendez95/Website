@@ -26,7 +26,7 @@ image:
 links:
 projects:
 - Strategy Change
-publication: In *Proceeding of the Cognitive Science Society*
+publication: "In C. Kalish, M. Rau, T. Rogers, and J. Zhu (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp. 1414-1419). Austin, TX: Cognitive Science Society. "
 publication_short:
 publication_types:
 - "1"
