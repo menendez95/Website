@@ -35,6 +35,7 @@ summary: We used a mixed-method approach to explore parent and child perspective
 tags:
 - Biological reasoning
 - Death
+- Parent-child conversations
 title: "Embracing Death: Mexican Parent and Child Perspectives on Death"
 url_code: ""
 url_dataset: ""
