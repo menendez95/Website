@@ -22,7 +22,9 @@ image:
   caption: 
   focal_point: 
   preview_only: false
-projects: [Children's understanding of death]
+projects: 
+- [Children's understanding of death] 
+- [Biological Reasoning]
 publication: '*Child Development, 91*(2), e491-e511'
 publication_short: ""
 publication_types:
