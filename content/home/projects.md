@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Math"
     tag = "Mathematics Education"
+  
+  [[content.filter_button]]
+    name = "Visual Representations"
+    tag = "Visual Representations"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
