@@ -41,7 +41,7 @@ education:
       institution: University of Wisconsin-Madison
       year: 2016
     - course: AA in Psychology
-      institution: University of Wisconsin-Madison
+      institution: Miami Dade College
       year: 2014
 email: dmenendez@wisc.edu
 user_groups:
