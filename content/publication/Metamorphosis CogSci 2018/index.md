@@ -41,7 +41,7 @@ tags:
 title: "Effects of priming variability on adults learning about metamorphosis"
 url_code: ''
 url_dataset: ''
-url_pdf: #MenendezAlibaliRosengren(2018) copy.pdf
+url_pdf: {% staticref "files/cv.pdf" "newtab" %}
 url_poster: ''
 url_project: ''
 url_slides: ''
