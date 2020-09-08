@@ -28,7 +28,7 @@ publication: '*Death Studies, 44*, 78-88'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-09-01T00:00:00Z"
+publishDate: "2019-02-01T00:00:00Z"
 slides: 
 summary: We examined how adults’ memories of socialization regarding death might
   influence their self-reported coping with losses in childhood and adulthood.
