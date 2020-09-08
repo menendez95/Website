@@ -11,7 +11,7 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: 
+projects: [Biological Reasoning]
 publication: '*Memory & Cognition*'
 publication_short: ""
 publication_types:
