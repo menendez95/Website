@@ -16,7 +16,7 @@ authors:
 - Iseli G. Hernandez
 - Gregory Barber
 - Karl S. Rosengren
-date: "2020-12-12T00:00:00Z"
+date: "2020-01-12T00:00:00Z"
 doi: "10.1080/07481187.2018.1522386"
 featured: False
 image:
