@@ -36,6 +36,7 @@ summary: We examined how adults’ memories of socialization regarding death mig
   issues related to death reported better coping as children and adults.
 tags:
 - Death
+- Parent-child conversations
 title: "Do you remember being told what happened to grandma? The role of early socialization on later coping with death"
 url_code: ""
 url_dataset: ""
