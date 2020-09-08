@@ -15,8 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-- Visual representations
-- Parent-child conversations
+- [Biological Reasoning]
 publication: '*Cognitive Development, 55*, 1-17'
 publication_short: ""
 publication_types:
@@ -27,6 +26,7 @@ summary: "we investigated how parents make decisions about the healthiness of fo
 tags:
 - Biological Reasoning
 - Visual Representations
+- Parent-child conversations
 title: "Evaluating and communicating about the healthiness of foods: Predictors of parents' judgments and parent-child conversations"
 url_code: ""
 url_dataset: ""
