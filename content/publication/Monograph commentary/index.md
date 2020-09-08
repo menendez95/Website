@@ -24,7 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Monographs of the Society for Research in Child Development, 83*(2)'
+publication: '*Monographs of the Society for Research in Child Development, 83*(2), 175-183'
 publication_short: ""
 publication_types:
 - "2"
