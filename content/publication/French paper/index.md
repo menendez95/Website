@@ -26,7 +26,7 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: 
+projects: [Biological Reasoning]
 publication: '*Journal of Experimental Child Psychology, 173*, 205-221'
 publication_short: ""
 publication_types:
