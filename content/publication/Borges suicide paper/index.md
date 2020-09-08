@@ -34,7 +34,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: 
-publication: '*Journal of Psychiatric Research, 91*'
+publication: '*Journal of Psychiatric Research, 91*, 74-82'
 publication_short: ""
 publication_types:
 - "2"
