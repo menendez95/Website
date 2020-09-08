@@ -30,7 +30,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Strategy Change]
-publication: '*Advances in Child Development and Behavior, 56*'
+publication: '*Advances in Child Development and Behavior, 56*, 227-256'
 publication_short: ""
 publication_types:
 - "2"
