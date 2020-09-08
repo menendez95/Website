@@ -22,6 +22,7 @@ summary: We review research on children's understanding of death. In particular 
 tags:
 - Biological reasoning
 - Death
+- Parent-child conversations
 title: "Children's emerging understanding of death"
 url_code: ""
 url_dataset: ""
