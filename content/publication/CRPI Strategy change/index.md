@@ -31,7 +31,7 @@ image:
   preview_only: false
 projects: 
 - Strategy Change
-publication: '*Cognitive Research: Principles and Implication, 4*'
+publication: '*Cognitive Research: Principles and Implication, 4*, 1-18'
 publication_short: ""
 publication_types:
 - "2"
