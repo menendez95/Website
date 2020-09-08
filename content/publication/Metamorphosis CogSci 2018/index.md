@@ -22,7 +22,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-projects:
+projects: [Biological Reasoning]
 - Visual representations in biology
 publication: "In C. Kalish, M. Rau, T. Rogers, and J. Zhu (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp.2102-2107). Austin, TX: Cognitive Science Society."
 publication_short:
