@@ -22,7 +22,7 @@ publication_types:
 - "2"
 publishDate: "2020-09-01T00:00:00Z"
 slides: 
-summary: "we investigated how parents make decisions about the healthiness of foods when presented with different representations of the same nutritional information. Providing parents with nutritional information did not influence their ratings of how healthy food items are, compared to when they were shown only pictures of the foods. Parents reported talking with their children about nutrition, believed they are the best source of information for children about nutrition, and believed their nutrition beliefs influence their children's beliefs."
+summary: "We investigated how parents make decisions about the healthiness of foods when presented with different representations of the same nutritional information. Providing parents with nutritional information did not influence their ratings of how healthy food items are. Parents reported talking with their children about nutrition, believed they are the best source of information for children about nutrition, and believed their nutrition beliefs influence their children's beliefs."
 tags:
 - Biological Reasoning
 - Visual Representations
