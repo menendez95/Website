@@ -22,9 +22,9 @@ image:
   focal_point: ""
   preview_only: false
 links:
-projects: [Biological Reasoning]
+projects:
 - Visual representations in biology
-publication: "In C. Kalish, M. Rau, T. Rogers, and J. Zhu (Eds.), *Proceedings of the 40th Annual Conference of the Cognitive Science Society* (pp.2102-2107). Austin, TX: Cognitive Science Society."
+publication: In *Proceeding of the Cognitive Science Society*
 publication_short:
 publication_types:
 - "1"
@@ -41,7 +41,7 @@ tags:
 title: "Effects of priming variability on adults learning about metamorphosis"
 url_code: ''
 url_dataset: ''
-url_pdf: https://cogsci.mindmodeling.org/2018/papers/0400/0400.pdf
+url_pdf: files/MenendezAlibaliRosengren(2018) copy.pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
