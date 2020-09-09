@@ -41,7 +41,7 @@ tags:
 title: "Effects of priming variability on adults learning about metamorphosis"
 url_code: ''
 url_dataset: ''
-url_pdf: https://cogsci.mindmodeling.org/2018/papers/0400/0400.pdf
+url_pdf: 
 url_poster: ''
 url_project: ''
 url_slides: ''
