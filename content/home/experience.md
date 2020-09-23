@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Teaching Assistant"
-  company = "Psych 610-710"
+  company = "Graduate Statistics"
   company_url = ""
   location = "Madison, Wisconsin"
   date_start = "2019-09-01"
