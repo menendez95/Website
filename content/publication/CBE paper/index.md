@@ -23,9 +23,9 @@ publishDate: "2020-09-01T00:00:00Z"
 slides: 
 summary: We examined the diagrams found in biology books and online to see if their design alligned with research-based practices. We found that many diagrams had perceptually rich backgrounds, which prior research suggests might hinder learning.
 tags:
-- Biological Reasoning
-- Visual Representations
-- Science Education
+- Biological reasoning
+- Visual representations
+- STEM education
 title: "Representing variability: The case of life cycle diagrams"
 url_code: ""
 url_dataset: ""
