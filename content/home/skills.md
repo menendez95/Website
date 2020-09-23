@@ -21,8 +21,8 @@ subtitle = ""
   description = "Proficient"
 
 [[feature]]
-  icon = "open-data"
-  icon_pack = "ai"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Quantitative data analysis"
   description = "Proficient"
 
