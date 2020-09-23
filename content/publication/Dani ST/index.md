@@ -20,7 +20,8 @@ publishDate: "2020-07-15T00:00:00Z"
 slides: 
 summary: We examine how the framing around mental illness influenced how people thought about them. Describing mental illness with an essentialist framing led adult to think drug treatments (but not talk therapy) would be more effective.
 tags:
-- Biological Reasoning
+- Biological reasoning
+- Psychological essentialism
 title: "Reframing mental illness: The role of essentialism on perceived treatment efficacy and stigmatization"
 url_code: ""
 url_dataset: ""
