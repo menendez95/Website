@@ -34,8 +34,8 @@ publishDate: "2018-07-23T00:00:00Z"
 slides: example
 summary: "We find that individuals evaluate strategies mainly on two dimensions: Intuitiveness and Efficiency."
 tags:
-- Problem Solving
-- Mathematics Education
+- Problem solving
+- STEM education
 title: "How do people evaluate problem-solving strategies? Efficiency and intuitiveness matter"
 url_code: ''
 url_dataset: ''
