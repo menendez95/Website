@@ -37,7 +37,8 @@ summary: We investigated 3 to 11 year old children and adults’ reasoning about
   life-cycle changes. The results suggest that endorsement of the different patterns is
   influenced by age and familiarity.
 tags:
-- Biological Reasoning
+- Biological reasoning
+- Psychological essentialism
 title: "Cognitive constraints influence an understanding of life-cycle change"
 url_code: ""
 url_dataset: ""
