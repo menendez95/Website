@@ -36,7 +36,7 @@ summary: We used a mixed-method approach to explore parent and child perspective
   understanding of death, they also combined this knowledge with spiritual information. 
 tags:
 - Biological reasoning
-- Death
+- Understanding of death
 - Parent-child conversations
 title: "Embracing Death: Mexican Parent and Child Perspectives on Death"
 url_code: ""
