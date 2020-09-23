@@ -21,9 +21,9 @@ publishDate: "2020-07-30T00:00:00Z"
 slides: 
 summary: We examined whether the perceptual richness of a diagram influences adults' learning and transfer of knowledge about metamorphosis. Adults who saw the bland diagram during the lesson accurately transferred more than adults who saw the rich diagram during the lesson.
 tags:
-- Biological Reasoning
-- Visual Representations
-- Science Education
+- Biological reasoning
+- Visual representations
+- STEM education
 title: "Do details bug you? Effects of perceptual richness in learning about biological change"
 url_code: ""
 url_dataset: ""
