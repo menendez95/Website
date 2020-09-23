@@ -32,7 +32,7 @@ publishDate: "2018-06-01T00:00:00Z"
 slides: 
 summary: "Commentary on Lockhart and Keil (2018) monograph."
 tags:
-- Biological Reasoning
+- Biological reasoning
 title: "COMMENTARY: WHAT HEALS AND WHY? CHILDREN'S UNDERSTANDING OF MEDICAL TREATMENTS."
 url_code: ""
 url_dataset: ""
