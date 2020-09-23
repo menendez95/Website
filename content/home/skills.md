@@ -19,18 +19,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "Proficient"
-
-[[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Quantitative data analysis"
-  description = "Proficient"
-
-[[feature]]
-  icon = "comment-dots"
-  icon_pack = "fas"
-  name = "Qualitative data analysis"
-  description = "Intermediate"
   
 [[feature]]
   icon = "python"
@@ -43,6 +31,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "Spanish"
   description = "Fluent"
+
+[[feature]]
+  icon = "users-cog"
+  icon_pack = "fas"
+  name = "Project management"
+  description = "Proficient"  
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Quantitative data analysis"
+  description = "Proficient"
+
+[[feature]]
+  icon = "comment-dots"
+  icon_pack = "fas"
+  name = "Qualitative data analysis"
+  description = "Intermediate" 
 
 
 # Uncomment to use emoji icons.
