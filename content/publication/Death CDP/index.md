@@ -21,7 +21,7 @@ slides:
 summary: We review research on children's understanding of death. In particular we examine how children learn about death by talking with parents, consuming media, and participating in cultural rituals. 
 tags:
 - Biological reasoning
-- Death
+- Understanding of death
 - Parent-child conversations
 title: "Children's emerging understanding of death"
 url_code: ""
