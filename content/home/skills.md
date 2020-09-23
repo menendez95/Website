@@ -22,13 +22,13 @@ subtitle = ""
 
 [[feature]]
   icon = "open-data"
-  icon_pack = "fab"
+  icon_pack = "ai"
   name = "Quantitative data analysis"
   description = "Proficient"
 
 [[feature]]
   icon = "comment-dots"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Qualitative data analysis"
   description = "Intermediate"
   
