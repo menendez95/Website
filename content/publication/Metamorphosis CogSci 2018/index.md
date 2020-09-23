@@ -35,9 +35,10 @@ summary: "We manipulated perceptions of variability by priming students
   lesson. Priming led to more endorsement of metamorphosis, but only among those with
   high prior knowledge."
 tags:
-- Biological Reasoning
-- Visual Representations
-- Science Education
+- Biological reasoning
+- Visual representations
+- Psychological essentialism
+- STEM education
 title: "Effects of priming variability on adults learning about metamorphosis"
 url_code: ''
 url_dataset: ''
