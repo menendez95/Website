@@ -41,8 +41,8 @@ summary: "We examined whether strategy adoption depends on the confluence of man
   factors, including the context in which a target strategy is introduced,
   characteristics of the learner, and characteristics of the strategy itself."
 tags:
-- Problem Solving
-- Mathematics Education
+- Problem solving
+- STEM education
 title: "Strategy adoption depends on characteristics of the instruction, learner, and strategy"
 url_code: ""
 url_dataset: ""
