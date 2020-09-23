@@ -8,11 +8,12 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include cognitive development and science education
+bio: My research interests include cognitive development, diagrams, and STEM
+  education
 interests:
   - Conceptual development
   - Visual representations
-  - Science education
+  - STEM education
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,4 +49,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a graduate student at the University of Wisconsin-Madison working with Dr. Martha Alibali and Dr. Karl Rosengren. I am interested in how children learn science concepts inside and outside of the classroom, and how representations influence learning and generalization.
+I am a graduate student in the Department of Psychology at the University of Wisconsin-Madison working with Dr. Martha Alibali and Dr. Karl Rosengren. I am also part of the Interdisciplinary Training Programs in Education Sciences. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization.
