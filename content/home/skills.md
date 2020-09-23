@@ -19,6 +19,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "Proficient"
+
+[[feature]]
+  icon = "open-data"
+  icon_pack = "fab"
+  name = "Quantitative data analysis"
+  description = "Proficient"
+
+[[feature]]
+  icon = "comment-dots"
+  icon_pack = "fab"
+  name = "Qualitative data analysis"
+  description = "Intermediate"
   
 [[feature]]
   icon = "python"
@@ -31,6 +43,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Spanish"
   description = "Fluent"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
