@@ -18,14 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate student"
-  company = "University of Wisconsin - Madison"
+  title = "Graduate student researcher"
+  company = "Cognitive Development and Communication lab"
   company_url = ""
   location = "Madison, Wisconsin"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-  Conduct studies on how visual representations influence students' learning, particularly in the domain of biology. Examine how socio-cultural factors influence biological reasoning.
+  Conduct studies on whe students change the strategies they use when solving problems and how visual representations influence students' learning, particularly in the domain of biology. Supervised between 1 and 4 undergraduate researchers per semester. Coordinated data collection with children between the ages of 5 and 12 and adults.
+  """
+[[experience]]
+  title = "Graduate student researcher"
+  company = "Cognition in Action lab"
+  company_url = ""
+  location = "Madison, Wisconsin"
+  date_start = "2016-09-01"
+  date_end = "2019-08-01"
+  description = """
+  Conduct studies on how socio-cultural factors influence biological reasoning and cognitive development. Supervised between 3 and 10 undergraduate researchers per semester and managed between 2 and 4 projects per semester. Coordinated data collection with children between the ages of 3 and 12 and adults.
   """
 
 [[experience]]
