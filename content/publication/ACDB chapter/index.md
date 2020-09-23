@@ -40,8 +40,8 @@ summary: "A selective review of research on three classes of factors that may in
   processes of strategy change in mathematical problem solving: contextual factors,
   individual factors, and metacognitive factors."
 tags:
-- Problem Solving
-- Mathematics Education
+- Problem solving
+- STEM education
 title: "Understanding strategy change: Contextual, individual,
 and metacognitive factors"
 url_code: ""
