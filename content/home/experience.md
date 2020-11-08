@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate student researcher"
+  title = "Graduate Student Researcher"
   company = "Cognitive Development and Communication lab"
   company_url = ""
   location = "Madison, Wisconsin"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Conduct studies on whe students change the strategies they use when solving problems and how visual representations influence students' learning, particularly in the domain of biology. Supervised between 1 and 4 undergraduate researchers per semester. Coordinated data collection with children between the ages of 5 and 12 and adults.
   """
 [[experience]]
-  title = "Graduate student researcher"
+  title = "Graduate Student Researcher"
   company = "Cognition in Action lab"
   company_url = ""
   location = "Madison, Wisconsin"
