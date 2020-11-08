@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2020-05-16"
   description = """
-  Taugh weekly lab sections to 15 doctoral and master students taking an introductory statistics course, designed lessons and assements in R, and taugh a guest lecture on Bayesian data analysis. The course was an introduction to R (programming language) and inferential statistics. The focus of the course was on general and generalized linear models and linear mixed-effects models. Some special topics discussed include mediation and path analysis, moderated mediation, factor analysis, and Bayesian inferential statistics. Although the majority of the course was in-person, due to the COVID-19 pandemic, I gained experience with both synchronous and asynchronous online teaching and assessment.
+  Taught weekly lab sections to 15 doctoral and master students taking an introductory statistics course, designed lessons and assements in R, and taught a guest lecture on Bayesian data analysis. The course was an introduction to R (programming language) and inferential statistics. The focus of the course was on general and generalized linear models and linear mixed-effects models. Some special topics discussed include mediation and path analysis, moderated mediation, factor analysis, and Bayesian inferential statistics. Although the majority of the course was in-person, due to the COVID-19 pandemic, I gained experience with both synchronous and asynchronous online teaching and assessment.
   """
 
 [[experience]]
