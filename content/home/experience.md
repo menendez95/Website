@@ -60,6 +60,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Teaching Assistant"
+  company = "Introduction to Psychology"
+  company_url = ""
+  location = "Madison, Wisconsin"
+  date_start = "2021-01-20"
+  date_end = "2022-05-16"
+  description = """
+  Taught weekly discussion section for students with traditionally underrepresented backgrounds in science. Due to the COVID-19 pandemic, in Spring 2021 the section was taught online, with a combination of synchronous and asynchronous components. The focus of the section was to provide students with more opportunities to engage with the material and teach how they can use psychological science to improve their study habits.
+  """
+  
+[[experience]]
   title = "Research Assistant"
   company = "Instituto Nacional de Psiquiatria"
   company_url = ""
