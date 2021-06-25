@@ -1,22 +1,11 @@
 ---
-abstract: A mixed-method approach was used to explore parent and child perspectives on
-  death in Mexico. Parents’ and children’s death-related experiences and understanding
-  of death were examined. While all children in this sample displayed a biological
-  understanding of death, older children were less likely to endorse that all living
-  things die. Children also displayed coexistence of beliefs related to death that can
-  be attributed to both their biological and spiritual understanding of death. We also
-  found that older children were more likely to report that a child should feel sad
-  following the death of a loved one. These findings highlight how cultural practices
-  shape the development of cognitive and affective processes related to death.
+abstract: We present three studies examining death in children’s animated films. Study 1 is a content analysis of 49 films. We found that death is often portrayed in films, but many deaths occurred off-screen. Deaths were mostly portrayed in a biologically accurate manner, but some films portrayed biological misconceptions. Study 2 (n = 433) reports on parents’ attitudes and parent-child conversations about death in films. Children’s questions about death in animated films were similar to their questions about death more generally. Animated films may provide a context for parent-child conversations about death, as parents often watched these films with their children. However, it appeared that few parents took advantage of this opportunity to talk about death with their children.
 authors:
-- Isabel T. Gutiérrez
+- Enrica E. Bridgewater
 - admin
-- Matthew J. Jiang
-- Iseli G. Hernandez
-- Peggy Miller
 - Karl S. Rosengren
-date: "2020-04-01T00:00:00Z"
-doi: "10.1111/cdev.13263"
+date: "2021-07-01T00:00:00Z"
+doi: "10.1016/j.cogdev.2021.101063"
 featured: False
 image:
   caption: 
@@ -25,23 +14,25 @@ image:
 projects: 
 - [Children's understanding of death] 
 - [Biological Reasoning]
-publication: '*Child Development, 91*(2), e491-e511'
+publication: '*Cognitive Development, 59*, 101063'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 slides: 
-summary: We used a mixed-method approach to explore parent and child perspectives on 
-  death in Puebla, Mexico. While all children in this sample displayed a biological
-  understanding of death, they also combined this knowledge with spiritual information. 
+summary: We examined the type of death information in children's films and parent- 
+  child conversations. We found that children's animated films contained a lot of biologically
+  accurate information about death, however many of the deaths were implied and not explicitly
+  shown. Children asked a lot of question about death in films, and these questions resemble
+  their questions about death in other settings.
 tags:
 - Biological reasoning
 - Understanding of death
 - Parent-child conversations
-title: "Embracing Death: Mexican Parent and Child Perspectives on Death"
+title: "Capturing death in animated films: Can films stimulate parent-child conversations about death?"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/333467555_Embracing_Death_Mexican_Parent_and_Child_Perspectives_on_Death
+url_pdf: https://psyarxiv.com/q8w4p/
 url_poster: ""
 url_project: ""
 url_slides: ""
