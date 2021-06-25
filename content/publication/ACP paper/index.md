@@ -27,7 +27,7 @@ tags:
 title: "Do details bug you? Effects of perceptual richness in learning about biological change"
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3698
+url_pdf: https://psyarxiv.com/2639d/
 url_poster: ""
 url_project: ""
 url_slides: ""
