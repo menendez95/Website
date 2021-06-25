@@ -16,7 +16,7 @@ image:
   preview_only: false
 projects: 
 - [Biological Reasoning]
-publication: '*Cognitive Development, 55*, 1-17'
+publication: '*Cognitive Development, 55*, 100913'
 publication_short: ""
 publication_types:
 - "2"
