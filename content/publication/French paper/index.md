@@ -42,7 +42,7 @@ tags:
 title: "Cognitive constraints influence an understanding of life-cycle change"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/S0022096517305234
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7062384/pdf/nihms-1563206.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
