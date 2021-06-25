@@ -39,7 +39,7 @@ tags:
 title: "How do people evaluate problem-solving strategies? Efficiency and intuitiveness matter"
 url_code: ''
 url_dataset: ''
-url_pdf: https://www.researchgate.net/publication/327989652_How_do_people_evaluate_problem-solving_strategies_Efficiency_and_intuitiveness_matter
+url_pdf: https://cogsci.mindmodeling.org/2018/papers/0275/0275.pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
