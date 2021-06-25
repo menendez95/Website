@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Memory & Cognition*'
+publication: '*Memory & Cognition, 48(8)*, 1317-1333'
 publication_short: ""
 publication_types:
 - "2"
