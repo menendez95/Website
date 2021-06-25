@@ -18,7 +18,7 @@ publication: '*Cognitive Development, 59*, 101063'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2021-06-01T00:00:00Z"
 slides: 
 summary: We examined the type of death information in children's films and parent- 
   child conversations. We found that children's animated films contained a lot of biologically
