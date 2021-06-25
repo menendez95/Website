@@ -26,7 +26,7 @@ tags:
 title: "Children's emerging understanding of death"
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/cdep.12357
+url_pdf: https://rosengrenlab.digitalscholar.rochester.edu/wp-content/uploads/2020/06/MenendezHernandezRosengren2020.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
