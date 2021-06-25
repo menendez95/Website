@@ -46,7 +46,7 @@ title: "Understanding strategy change: Contextual, individual,
 and metacognitive factors"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www-ncbi-nlm-nih-gov.ezproxy.library.wisc.edu/pubmed/30846048
+url_pdf: https://files.eric.ed.gov/fulltext/ED605649.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
