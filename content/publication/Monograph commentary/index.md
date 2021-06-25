@@ -36,7 +36,7 @@ tags:
 title: "COMMENTARY: WHAT HEALS AND WHY? CHILDREN'S UNDERSTANDING OF MEDICAL TREATMENTS."
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/full/10.1111/mono.12370
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7062256/pdf/nihms-1561816.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
