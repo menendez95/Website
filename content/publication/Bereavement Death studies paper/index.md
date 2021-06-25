@@ -40,7 +40,7 @@ tags:
 title: "Do you remember being told what happened to grandma? The role of early socialization on later coping with death"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/329618148_Do_you_remember_being_told_what_happened_to_grandma_The_role_of_early_socialization_on_later_coping_with_death
+url_pdf: https://rosengrenlab.digitalscholar.rochester.edu/wp-content/uploads/2020/06/Death-studies-2018-D-you-remember-grandma.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
