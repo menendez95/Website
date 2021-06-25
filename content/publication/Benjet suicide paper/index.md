@@ -45,7 +45,7 @@ tags:
 title: "Adolescent Predictors of Incidence and Persistence of Suicide-Related Outcomes in Young Adulthood: A Longitudinal Study of Mexican Youth"
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/full/10.1111/sltb.12397
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882600/pdf/nihms892549.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
