@@ -41,7 +41,7 @@ tags:
 title: "Embracing Death: Mexican Parent and Child Perspectives on Death"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/333467555_Embracing_Death_Mexican_Parent_and_Child_Perspectives_on_Death
+url_pdf: https://rosengrenlab.digitalscholar.rochester.edu/wp-content/uploads/2020/06/Gutierrez_et_al-2019-Child_Development.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
