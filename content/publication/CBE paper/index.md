@@ -29,7 +29,7 @@ tags:
 title: "Representing variability: The case of life cycle diagrams"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.lifescied.org/doi/10.1187/cbe.19-11-0251
+url_pdf: https://www.lifescied.org/doi/pdf/10.1187/cbe.19-11-0251
 url_poster: ""
 url_project: ""
 url_slides: ""
