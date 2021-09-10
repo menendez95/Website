@@ -6,7 +6,7 @@ authors:
 - Martha W. Alibali
 date: "2020-07-30T00:00:00Z"
 doi: "10.1002/acp.3698"
-featured: True
+featured: false
 image:
   caption: 
   focal_point: ""
