@@ -17,7 +17,7 @@ publication: '*Journal of Experimental Child Psychology, 213*, 105269'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2021-09-01T00:00:00Z"
 slides: 
 summary: We examined whether the perceptual richness of a diagram influences children's learning and transfer of knowledge about metamorphosis. First and second graders who saw the rich diagram during the lesson learned more than those who saw the bland diagram during the lesson. Fourth and fifth graders who saw the bland diagram during the lesson incorrectly transferred more than those who saw the rich diagram during the lesson.
 tags:
