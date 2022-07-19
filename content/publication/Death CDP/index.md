@@ -6,7 +6,7 @@ authors:
 - Karl S. Rosengren
 date: "2020-08-08T00:00:00Z"
 doi: "10.1111/cdep.12357"
-featured: True
+featured: False
 image:
   caption: 
   focal_point: 
