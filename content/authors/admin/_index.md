@@ -1,10 +1,10 @@
 ---
 title: David Menendez
-role: Graduate Student
+role: Postdoctoral Research fellow
 avatar_filename: avatar.jpg
 organizations:
-  - name: University of Wisconsin-Madison
-    url: https://psych.wisc.edu/staff/menendez-david/
+  - name: University of Michigan
+    url: https://lsa.umich.edu/psych/people/research-fellows-2/dmenen.html
 superuser: true
 authors:
   - admin
@@ -44,9 +44,9 @@ education:
     - course: AA in Psychology
       institution: Miami Dade College
       year: 2014
-email: dmenendez@wisc.edu
+email: dmenen@umich.edu
 user_groups:
   - Researchers
   - Visitors
 ---
-I am a graduate student in the Department of Psychology at the University of Wisconsin-Madison working with Dr. Martha Alibali and Dr. Karl Rosengren. I am also part of the Interdisciplinary Training Programs in Education Sciences. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization.
+I am a postdoctoral research fellow in the Department of Psychology at the University of Michigan working with Dr. Susan Gelman. In July 2023, I will start as an assistant professor of Psychology at the University of California-Santa Cruz. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization.
