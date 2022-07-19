@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral research fellow"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, Michigan"
+  date_start = "2022-07-01"
+  date_end = ""
+  description = """
+  Supervised projects on how children think about viruses and viral transmission. Managed a team of undergraduate students in collecting, transcribing and analyzing data.
+  """
+  
+  [[experience]]
   title = "Graduate Student Researcher"
   company = "Cognitive Development and Communication lab"
   company_url = ""
   location = "Madison, Wisconsin"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2022-07-31"
   description = """
   Conduct studies on whe students change the strategies they use when solving problems and how visual representations influence students' learning, particularly in the domain of biology. Supervised between 1 and 4 undergraduate researchers per semester. Coordinated data collection with children between the ages of 5 and 12 and adults.
   """
@@ -65,7 +76,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Madison, Wisconsin"
   date_start = "2021-01-20"
-  date_end = ""
+  date_end = "2022-05-14"
   description = """
   Taught weekly discussion section for students with traditionally underrepresented backgrounds in science. Due to the COVID-19 pandemic, in Spring 2021 the section was taught online, with a combination of synchronous and asynchronous components. The focus of the section was to provide students with more opportunities to engage with the material and teach how they can use psychological science to improve their study habits.
   """
