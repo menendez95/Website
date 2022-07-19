@@ -34,7 +34,7 @@ summary: We investigated adults’ reasoning about genetic inheritance.
 tags:
 - Biological reasoning
 - Psychological essentialism
-title: "Cognitive constraints influence an understanding of life-cycle change"
+title: "Like mother, like daughter: Adults’ judgments about genetic inheritance"
 url_code: ""
 url_dataset: ""
 url_pdf: https://osf.io/qgsvj/
