@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Dr. Timothy Rogers"
   organization_url = ""
-  title = "Neural Networks Model of Cogntion"
+  title = "Neural Networks Model of Cognition"
   url = ""
   certificate_url = ""
   date_start = "2017-05-01"
