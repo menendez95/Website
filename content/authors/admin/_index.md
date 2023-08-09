@@ -1,10 +1,10 @@
 ---
 title: David Menendez
-role: Postdoctoral Research fellow
+role: Assistant Professor
 avatar_filename: avatar.jpg
 organizations:
-  - name: University of Michigan
-    url: https://lsa.umich.edu/psych/people/research-fellows-2/dmenen.html
+  - name: University of California-Santa Cruz
+    url: https://psychology.ucsc.edu/faculty/index.php?uid=damenend
 superuser: true
 authors:
   - admin
@@ -51,4 +51,4 @@ user_groups:
 ---
 I am a postdoctoral research fellow in the Department of Psychology at the University of Michigan working with Dr. Susan Gelman. In July 2023, I will start as an assistant professor of Psychology at the University of California-Santa Cruz. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization.
 
-I will be accepting graduate students to start in Fall 2023 in UC-Santa Cruz. If you are interested in STEM learning, socialization, or diagrams let me know! If you are interested in how children think about death, evolution, global warming or genetics I would love to chat!
+I might or might not be accepting graduate students to start in Fall 2024 in UC-Santa Cruz. If you are interested in how children think about death, evolution, global warming or genetics I would love to chat!
