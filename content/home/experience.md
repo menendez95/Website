@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Experience"
@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "University of California-Santa Cruz"
+  company_url = ""
+  location = "Santa Cruz, California"
+  date_start = "2023-07-01"
+  date_end = ""
+  description = """
+  Taught statistics and psychology classes for undergraduate and graduate students. Supervised projects on how children think about viruses and viral transmission. Managed a team of undergraduate and graduate students in collecting, transcribing and analyzing data.
+  """
+
+[[experience]]
   title = "Postdoctoral research fellow"
   company = "University of Michigan"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2022-07-01"
-  date_end = ""
+  date_end = "2023-07-01"
   description = """
   Supervised projects on how children think about viruses and viral transmission. Managed a team of undergraduate students in collecting, transcribing and analyzing data.
   """
