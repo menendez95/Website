@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Journal of Experimental Psychology: Applied, 0*, 1-16'
+publication: '*Journal of Experimental Psychology: Applied, 29*(1), 63–77'
 publication_short: ""
 publication_types:
 - "2"
