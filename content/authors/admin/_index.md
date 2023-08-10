@@ -15,9 +15,6 @@ interests:
   - Visual representations
   - STEM education
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: damenend@ucsc.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MenendezCastano
@@ -44,11 +41,11 @@ education:
     - course: AA in Psychology
       institution: Miami Dade College
       year: 2014
-email: dmenen@umich.edu
+email: damenend@ucsc.edu
 user_groups:
   - Researchers
   - Visitors
 ---
-I am a postdoctoral research fellow in the Department of Psychology at the University of Michigan working with Dr. Susan Gelman. In July 2023, I will start as an assistant professor of Psychology at the University of California-Santa Cruz. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization.
+I am an assistant professor of Psychology at the University of California-Santa Cruz. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization. I am also interested in the role of culture and socialization practices on the development of cognition. I have examine how participating in cultural rituals like *dia de los muertos* shapes children's understanding of death, how teachers in the United States and Turkiye talked about the pandemic with their children, and how different communities within the United States think about illness.
 
-I might or might not be accepting graduate students to start in Fall 2024 in UC-Santa Cruz. If you are interested in how children think about death, evolution, global warming or genetics I would love to chat!
+I might or might not be accepting graduate students to start in Fall 2024 in UC-Santa Cruz. But if you are interested in how children think about death, evolution, global warming or genetics I would love to chat!
