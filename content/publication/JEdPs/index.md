@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Journal of Educational Psychology, 0*, 0-00'
+publication: '*Journal of Educational Psychology, 115*(8), 1110–1124'
 publication_short: ""
 publication_types:
 - "2"
