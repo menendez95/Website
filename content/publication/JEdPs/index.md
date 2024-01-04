@@ -16,14 +16,7 @@ publication_types:
 - "2"
 publishDate: "2023-05-17T00:00:00Z"
 slides: 
-summary: We investigated adults’ reasoning about genetic inheritance. 
-  We found that adults have a fairly good understanding of how genetic inheritance works, 
-  but they reliably have two misunderstandings. The first one is that if the two parents 
-  have the same eye color (let's say dark brown) they think that it is more likely for 
-  the offspring to have a similar color (dark orange) than a different color (green). 
-  The second one is that they think that if the parents have different eye colors, they
-  think that female offspring are more likely to resemble the mother and male offspring 
-  are more likely to resemble the father.
+summary: I investigated how children and adults use visual and linguistic cues to determine how broadly to generalize facts.
 tags:
 - Visual representations
 - STEM education
