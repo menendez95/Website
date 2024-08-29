@@ -2,6 +2,14 @@
 abstract: "Do children think of genetic inheritance as deterministic or probabilistic? In two novel tasks, children viewed the eye colors of animal parents and judged and selected possible phenotypes of offspring. Across three studies (N=353, 162 girls, 172 boys, 2 non-binary; 17 did not report gender) with predominantly White U.S. participants collected in 2019–2021, 4- to 12-year-old children showed a probabilistic understanding of genetic inheritance, and they accepted and expected variability in the genetic inheritance of eye color. Children did not show a mother bias but they did show two novel biases: perceptual similarity and sex-matching. These results held for unfamiliar animals and several physical traits (e.g., eye color, ear size, and fin type), and persisted after a lesson."
 authors:
 - admin
+- Andrea Marquardt Donovan
+- Olympia N. Mathiaparanam
+- Vienne Seitz
+- Nour F. Sabbagh
+- Rebecca E. Klapper
+- Charles W. Kalish
+- Karl S. Rosengren
+- Martha W. Alibali
 date: "2024-01-03T00:00:00Z"
 doi: "10.1111/cdev.14053"
 featured: True
@@ -10,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Child Development, 0*(0), 0- 0'
+publication: '*Child Development, 95*(3), e186-e205'
 publication_short: ""
 publication_types:
 - "2"
