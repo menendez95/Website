@@ -22,6 +22,7 @@ summary: We investigated why undergraduate students adopted some strategies and 
   We found that students' rating of the quality of a strategy influenced their adoption, but their ratings of how complex a strategy is did not.
 tags:
 - Problem solving
+- STEM education
 title: "Some correct strategies are better than others: Individual differences in strategy evaluations influence strategy adoption"
 url_code: ""
 url_dataset: ""
