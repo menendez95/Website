@@ -35,6 +35,8 @@ summary: We investigated children’s reasoning about genetic inheritance.
 tags:
 - Visual representations
 - STEM education
+- Biological reasoning
+- Psychological essentialism
 title: "Deterministic or probabilistic: U.S. children's beliefs about genetic inheritance"
 url_code: ""
 url_dataset: ""
