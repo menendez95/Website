@@ -21,6 +21,7 @@ summary:
 tags:
 - Biological reasoning
 - Structural thinking
+- Psychological essentialism
 title: "Children’s biological causal models of disability"
 url_code: ""
 url_dataset: ""
