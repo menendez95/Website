@@ -23,6 +23,7 @@ summary:
 tags:
 - Biological reasoning
 - Structural thinking
+- Psychological essentialism
 title: "The social aspects of illness: Children's and parents' explanations of the relation between social categories and illness in a predominantly white U.S. sample"
 url_code: ""
 url_dataset: ""
