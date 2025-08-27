@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Biological Reasoning]
-publication: '*Child Development, 0*(0), 0'
+publication: '*Child Development, 95*(5), 1676-1692'
 publication_short: ""
 publication_types:
 - "2"
