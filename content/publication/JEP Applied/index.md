@@ -9,7 +9,7 @@ authors:
 - Charles W. Kalish
 - Martha W. Alibali
 - Karl S. Rosengren
-date: "2022-07-18T00:00:00Z"
+date: "2023-07-18T00:00:00Z"
 doi: "10.1037/xap0000436"
 featured: True
 image:
